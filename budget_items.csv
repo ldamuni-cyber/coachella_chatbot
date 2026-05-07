@@ -1,0 +1,22 @@
+category,item,low_cost,mid_cost,high_cost,notes
+ticket,GA Weekend Pass,549,574,599,Weekend 1 tends to be pricier on resale
+ticket,GA+ Weekend Pass,799,849,899,Includes lounge access
+ticket,VIP Weekend Pass,1199,1299,1399,Full VIP experience
+travel,Flight to Palm Springs (PSP),150,280,500,Book 2-3 months early for best prices
+travel,Flight to LAX (then drive),80,180,400,Factor in 2.5hr drive + parking
+travel,Gas (from LA, per car),40,50,60,Split with carpoolers
+travel,Official Shuttle (round trip),75,90,100,Highly recommended
+travel,Rideshare each day,30,60,120,Surges badly at night
+accommodation,On-site Car Camping (full weekend),160,185,210,Includes parking
+accommodation,On-site Tent Camping (full weekend),125,150,175,No car access
+accommodation,Lake Eldorado (premium camping),350,400,450,Pool access included
+accommodation,Airbnb (split 4 people, per person),80,150,250,Off-site in Indio/Palm Desert
+accommodation,Hotel (per night),120,200,400,Book extremely early
+food_drink,Meals per day (in festival),40,60,90,Budget-friendly options exist
+food_drink,Alcohol per day,0,30,80,Can vary wildly
+food_drink,Snacks and coffee,5,10,20,Bring some from camp
+extras,Sunscreen and toiletries,15,25,50,Buy before arriving (cheaper)
+extras,Merch (on-site),0,50,150,Limited edition drops sell fast
+extras,Outfit and accessories,30,100,400,Festival fashion varies widely
+extras,Phone charging,0,10,30,Bring a power bank to avoid kiosks
+extras,Locker rental (optional),0,25,50,Per day for secure storage
